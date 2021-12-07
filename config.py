@@ -1,0 +1,3 @@
+WEBHOOK_PASSPHRASE = "abcdef124"
+API_KEY = ""
+API_SECRET = ""
